@@ -30,7 +30,7 @@ let dataProccessing = (data) => {
             };
             
             res(response);
-        }, 1000);
+        }, 2000);
     });
 
     return request;
